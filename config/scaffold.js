@@ -1,5 +1,6 @@
 module.exports = {
     "node": {
+        "type": "node project",
         "info": "create a node project base gfe",
         "config": {
             "type": "github",
@@ -18,6 +19,7 @@ module.exports = {
         }
     },
     "web": {
+        "type": "web project",
         "info": "create a web project base freemarker and gfe",
         "config": {
             "type": "github",

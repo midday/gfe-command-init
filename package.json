@@ -1,6 +1,6 @@
 {
     "name": "gfe-command-init",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "gfe构建项目的脚手架工具",
     "main": "index.js",
     "repository": {

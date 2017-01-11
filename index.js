@@ -101,7 +101,7 @@ exports.register = function(commander) {
                     });
                 });
                 scaffold.deliver(source_path, dir, conf.config.roadmap);
-                fis.log.notice(conf.type + 'init done!');
+                fis.log.notice(conf.type + ' init done!');
             });
         }
     });
